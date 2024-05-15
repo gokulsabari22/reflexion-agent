@@ -4,7 +4,7 @@ Model Used:
 gpt-4-turbo-preview
 
 Flowchart:
-![graph](https://github.com/gokulsabari22/reflexion-agent/assets/57941940/1ca6caae-a833-475f-a178-0161de38d43c)
+The flowchart diagram can be found in "graph.png"
 
 Question:
 "Write about companies that work on Autonomous driving domain, list startups that do that and raised capital."
