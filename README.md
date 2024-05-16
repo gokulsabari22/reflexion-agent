@@ -3,6 +3,8 @@
 Model Used:
 gpt-4-turbo-preview
 
+Tools Used: Tavily 
+
 Flowchart:
 The flowchart diagram can be found in "graph.png"
 
